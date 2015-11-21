@@ -1,4 +1,7 @@
 jQuery(document).ready(function($){
+//    if(jQuery){
+//        alert("jquery is installed");
+//    }
 	var slidesWrapper = $('.cd-hero-slider');
 
 	//check if a .cd-hero-slider exists in the DOM 
